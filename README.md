@@ -79,23 +79,28 @@ O Copilot, inclusive, gerou um prototipo visual
 
 O Lovable "Entendeu" bem a solicitação e criou um app com visual interessante e funcional, como mostram as imagens.
 
+<img width="1902" height="1614" alt="image" src="https://github.com/user-attachments/assets/87d80d39-4216-41c2-b096-888d85888afb" />
+
+<img width="1896" height="1611" alt="image" src="https://github.com/user-attachments/assets/ff326997-00a7-433e-a8a0-88430e7db4d0" />
+
+<img width="1779" height="747" alt="image" src="https://github.com/user-attachments/assets/a47be915-c105-4d88-ae61-6d9fd2cd8d96" />
 
 
-> [!TIP]
-> Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
+<img width="1857" height="1491" alt="image" src="https://github.com/user-attachments/assets/f97ea09b-54a6-4556-9f4c-8f808a05368e" />
 
-### 3. Entregando o Desafio na DIO
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
+<img width="1800" height="1449" alt="image" src="https://github.com/user-attachments/assets/65210d64-e93c-43ff-be51-84aa95c6e585" />
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+
+<img width="1851" height="1491" alt="image" src="https://github.com/user-attachments/assets/78119172-9e6e-46bc-91a1-1c0bf518c89a" />
+
+
+<img width="1785" height="1467" alt="image" src="https://github.com/user-attachments/assets/411c85fd-e732-492d-94f8-1352371acebb" />
+
+
+### 3. Conclusão
+
+O app funcionou muito bem, a interface por chat facilitou o processo e o visual ficou interessante.
 
 
 ## 💬 Conclusão
