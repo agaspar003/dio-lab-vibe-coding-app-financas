@@ -102,7 +102,3 @@ O Lovable "Entendeu" bem a solicitação e criou um app com visual interessante 
 
 O app funcionou muito bem, a interface por chat facilitou o processo e o visual ficou interessante.
 
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
