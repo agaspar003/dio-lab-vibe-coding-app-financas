@@ -69,17 +69,17 @@ Atualmente, muitos aplicativos de finanças exigem inserções manuais extensas 
 - Evitar jargões técnicos.
 - Incentivar o usuário com mensagens positivas e práticas.
 ```
+O Copilot, inclusive, gerou um prototipo visual
 
-### 2. Explorando o Lovable na Prática
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/921f6448-fdc6-4515-920f-4b08d052ad73" />
 
-Com seu PRD pronto e revisado, é hora de colocar a IA em ação. Abra o Lovable, cole seu prompt completo e peça o plano inicial do MVP do seu aplicativo. Como o plano gratuito limita você a 5 interações por dia, seja estratégico:
-- Faça perguntas diretas e construtivas, como “crie o fluxo de telas com base nas funcionalidades listadas” ou “gere uma versão resumida do plano de MVP”;
-- Priorize clareza nas instruções para aproveitar ao máximo cada resposta;
 
-Durante essa etapa, você pode orientar a IA para três entregas principais:
-1. Agente Financeiro: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
-2. Fluxo de Telas: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
-3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
+
+### 2. Utilização do Lovable
+
+O Lovable "Entendeu" bem a solicitação e criou um app com visual interessante e funcional, como mostram as imagens.
+
+
 
 > [!TIP]
 > Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
@@ -97,8 +97,6 @@ No README do seu repositório, inclua:
   - O que não funcionou como o esperado?  
   - O que aprendeu sobre conversar com IAs?
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
 
